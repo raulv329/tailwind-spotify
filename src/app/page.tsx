@@ -2,16 +2,13 @@ import { Footer } from "@/components/Footer"
 import { ForYou } from "@/components/ForYou"
 import { Nextpage } from "@/components/Nextpage"
 import { Playlist } from "@/components/Playlist"
-import { Sidebar } from "@/components/sidebar"
-import { Play } from "lucide-react"
-import Image from "next/image"
-
+import { Sidebar } from "@/components/Sidebar"
 
 export default function Home() {
   return (
     <div className="h-screen flex flex-col">
       <div className="flex flex-1">
-
+        
         <Sidebar />
         
         <main className="flex-1 p-6">
