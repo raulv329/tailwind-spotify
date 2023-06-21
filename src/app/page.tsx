@@ -15,7 +15,7 @@ export default function Home() {
 
           <Nextpage />
        
-          <h1 className="font-semibold text-4xl mt-10">Good Afternoon</h1>
+          <h1 className="font-semibold text-4xl mt-10">Good Afternoon - Raul Vinicius</h1>
 
           <Playlist />          
 
